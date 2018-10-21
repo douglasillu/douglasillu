@@ -1,1 +1,18 @@
-img { width: 275px; height: 175px; }
+body
+{
+	margin: 0;
+	padding: 20px;
+	font-size: 100%;
+}
+
+h1 { margin: 0 0 .5em; }
+
+.example01
+{
+	width: 200px;
+	height: 200px;
+	border: 20px dotted red;
+}
+
+/* add rules here */
+.example01 { background-image: url(C:\Users\Casa2018\Desktop\GitHub\douglasillu-cit230.github.io\assignments\lesson-5\el_clima.jpg); }
