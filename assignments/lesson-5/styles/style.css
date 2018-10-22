@@ -1,18 +1,39 @@
-body
-{
-	margin: 0;
-	padding: 20px;
-	font-size: 100%;
+html,
+
+body{
+    color: #777;
+    	background: #fff;
 }
 
-h1 { margin: 0 0 .5em; }
+body 
+{ 
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 1.3;
+} 
 
-.example01
+h1, h2, h3, h4, h5, h6
+
 {
-	width: 200px;
-	height: 200px;
-	border: 20px dotted red;
+    margin: 0;
+    color: #424242;
+    line-height: 1.1;
 }
 
-/* add rules here */
-.example01 { background-image: url(C:\Users\Casa2018\Desktop\GitHub\douglasillu-cit230.github.io\assignments\lesson-5\el_clima.jpg); }
+img
+{
+    max-width: 100%;
+    height: auto;
+    border: 0;
+    vertical-align: middle;
+} 
+
+
+a:focus img { background: #000; }
+a:hover img { background: #3bb2d0; }
+a:active img { background: #af0000; }
+
+blockquote { margin: 0; }
+
