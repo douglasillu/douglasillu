@@ -23,7 +23,8 @@ h2 {
 	color: purple;
     border-bottom: 1px solid #bbb;
 }
-li {
+
+ol {
 	 font-size:1.2rem;
 	 color: green;
     text-align: center;
