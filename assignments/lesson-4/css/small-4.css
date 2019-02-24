@@ -11,7 +11,7 @@ header {
 }
 
 header img, .headings {
-	display: inline-block;
+	display: inline-flexbox;
 	vertical-align: left;
 	margin: 10px;
 }
