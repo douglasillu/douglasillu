@@ -13,18 +13,18 @@ body {
 }
 
 h1 {
-    font-size:1.6rem; 
+    font-size:x.xrem; 
     color: white;
 }
 
 h2 {
-    font-size:1.6rem;
+    font-size:x.xrem;
     text-align: center;
 	color: purple;
     border-bottom: 1px solid #bbb;
 }
 li {
-	 font-size:1.5rem;
+	 font-size:x.xrem;
 	 color: green;
     text-align: center;
 }
