@@ -32,7 +32,7 @@ li {
 	
 
 header, main, footer {
-    margin: 1.25rem auto;
+    margin: auto;
     padding: .5rem;
     max-width: 16px;
 }
