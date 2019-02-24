@@ -50,5 +50,10 @@ header img {
 }
 
 footer {
-    font-size: smaller;
+    clear: both;
+	text-align: center;
+	padding: 1em;
+	background-color: blue;
+	color: #fff;
+	font-size: .8rem;
 }
