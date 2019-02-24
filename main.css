@@ -24,7 +24,7 @@ h2 {
     border-bottom: 1px solid #bbb;
 }
 
-ol {
+li {
 	 font-size:1.2rem;
 	 color: green;
     text-align: center;
@@ -34,7 +34,7 @@ ol {
 header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
-    max-width: xxxpx;
+    max-width: 16px;
 }
 
 header, footer, footer a {
@@ -44,7 +44,7 @@ header, footer, footer a {
 }
 
 header img {
-    width:left-side;
+    width: auto;
     height: auto;
     float: right;
 }
