@@ -19,14 +19,14 @@ h1 {
 
 h2 {
     font-size:1.5rem;
-    text-align: left;
+    text-align: Center;
 	color: purple;
-    border-bottom: 16px solid #bbb;
+    border-bottom: 1px solid #bbb;
 }
 li {
-	 font-size:1.35rem;
+	 font-size:1.15rem;
 	 color: green;
-    text-align: center;
+    text-align: left;
 }
 	
 
