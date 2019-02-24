@@ -43,7 +43,7 @@ header, footer, footer a {
 }
 
 header img {
-    width:left-side;
+    width: auto;
     height: auto;
     float: right;
 }
