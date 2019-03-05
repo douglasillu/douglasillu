@@ -1,5 +1,7 @@
 body {
 	background-color: #bbb;
+	font-family: 'Fira Sans', sans-serif;
+	font: 18px;
 }
 
 header {
@@ -8,10 +10,54 @@ header {
 	border: 1px solid #bbb;
 	box-shadow: 0 0 30px #777;
 	text-align: center;
+	padding: .5rem;
 }
 
 header img, .headings {
 	display: inline-flexbox;
 	vertical-align: left;
 	margin: 10px;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+    vertical-align: middle;
+}
+nav {
+    background-color: #525252;   
+}
+ul {
+    padding: 0;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+li {
+    list-style: none;
+    padding: .5em;
+}
+li:hover {
+    background-color: #757575;
+}
+li:active {
+    background-color: #757575;
+}
+li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.site-name {
+    text-align: center;
+    margin: .5em;
+}
+footer {
+    background-color: grey;
+    height: 3em;
+}
+
+general	 {
+    width: 64em;
+    max-width: calc(100% - 4em);
+    margin: 0 auto;
 }
